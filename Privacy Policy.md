@@ -1,4 +1,4 @@
-## Shake Alarm Clock: Privacy policy
+## Encuesta: Privacy policy
 
 Welcome to the Encuesta app for Android!
 
